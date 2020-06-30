@@ -31,7 +31,7 @@ function App() {
                 className: "signatureCanvas"
               }}
             />
-            <button className="btn btn-main" onClick={save}>Save Signture</button>
+            <button className="btn btn-main" onClick={save}>Save Signature</button>
             <button className="btn btn-main" onClick={clear}>Clear</button>
             <button className="btn btn-main" onClick={close}>Close</button>
           </>
