@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is sample project for implementation of signature pad using react-signature-canvas npm package (Reference: https://www.npmjs.com/package/react-signature-canvas)
 
 You will need to run following command after cloning or downloading source code for generating node modules folder:
 
