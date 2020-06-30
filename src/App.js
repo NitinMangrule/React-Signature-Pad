@@ -47,7 +47,7 @@ function App() {
             display: "block",
             margin: "0 auto",
             border: "1px solid black",
-            width: "150px"
+            width: "200px"
           }}
         />
       ) : null}
